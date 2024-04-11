@@ -5,7 +5,7 @@ I came across the following definitions from the AIAA guidelines (AIAA G-007-199
 
 *Uncertainty* is defined as:
 
-*A potential deficiency in any phase or activity of the modelling process that is due to lack of knowledge.* 
+\indent *A potential deficiency in any phase or activity of the modelling process that is due to lack of knowledge.* 
 
 whereas *Error* is defined as:
 
